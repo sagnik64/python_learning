@@ -18,7 +18,6 @@ print(x)
 print(int(x))
 
 #complex numbers
-
 a = 4 + 7j
 b = 3 + 1j
 print(f'Sum = {a+b}')
